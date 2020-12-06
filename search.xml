@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>用化学来谈论游戏创意</title>
+    <url>/2020/12/04/VGD-1/</url>
+    <content><![CDATA[<h3 id="什么是创意"><a href="#什么是创意" class="headerlink" title="什么是创意"></a>什么是创意</h3><p>​    创意在百度里面解释为“create new meanings 创意是创造意识或创新意识的简称，亦作“剙意”。它是指对现实存在事物的理解以及认知，所衍生出的一种新的抽象思维和行为潜能。创意是一种通过创新思维意识，从而进一步挖掘和激活资源组合方式进而提升资源价值的方法，是传统的叛逆，是打破常规的哲学，是破旧立新的创造与毁灭的循环，是思维碰撞，智慧对接，是具有新颖性和创造性的想法，不同于寻常的解决方法</p>
+<h3 id="什么是游戏创意设计的化学？"><a href="#什么是游戏创意设计的化学？" class="headerlink" title="什么是游戏创意设计的化学？"></a>什么是游戏创意设计的化学？</h3><p>​    我认为游戏创意设计如同组成物质的化学元素，就拿超级马里奥来说明，把跳跃比作化学元素的氢H（游戏元素）。在超级马里奥中把跳跃加以运用（能踩怪物和顶方块），用化学来说就是变成了物质（游戏）氢气H2。那么在H2的基础上在加上其他元素呢？就以上年的超级马里奥：奥德赛来讲，扔帽子是一个新的元素我们把它在化学元素里当做成氧O。超级马里奥+扔帽子=超级马里奥：奥德赛（H2O）。把游戏的元素当做成化学的元素，通过不同的组合来组成任何的游戏（物质）。</p>
+<p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1607192578310&di=ac5c9487cc1785051ec5b4f1873757e4&imgtype=0&src=http://00.imgmini.eastday.com/mobile/20170807/20170807174201_766c93695d3f0330612bf58aedf7bdd9_1.jpeg"></p>
+<h3 id="那么在其他游戏的基础上加上一些其他元素是否是创意（创新）呢？"><a href="#那么在其他游戏的基础上加上一些其他元素是否是创意（创新）呢？" class="headerlink" title="那么在其他游戏的基础上加上一些其他元素是否是创意（创新）呢？"></a>那么在其他游戏的基础上加上一些其他元素是否是创意（创新）呢？</h3><p>​    这个问题我一直在想，是否是不是一定要打破传统发现出其他元素？在我开发的项目的前期我一直想做出一款别具一格的游戏，但是要做出一款和现在游戏中完全不一样的游戏实在是非常困难。在开发过程中很多时候会受到以前玩过的游戏里面元素的影响，凭空想象出一款完全不同的游戏实在是非常困难。在我看了Jonathan Blow（吹哥），陈星汉，Kyle Gabler、Jonathan Mak谈“游戏中的创新”期中吹哥用示例图来表示所有可能的做出来的游戏空间。<a href="http://www.bilibili.com/video/av22015779?from=search&amp;seid=6199969570147725713">http://www.bilibili.com/video/av22015779?from=search&amp;seid=6199969570147725713</a> （视频地址）</p>
+<p>———— 以上是本作者的观点，仅供参考。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/12/04/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
