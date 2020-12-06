@@ -2,13 +2,13 @@
  <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
  <g>
   <title>background</title>
-  <rect fill="#fff" id="canvas_background" height="66" width="66" y="-1" x="-1"/>
+  <rect fill="#000000" id="canvas_background" height="66" width="66" y="-1" x="-1"/>
   <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
    <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
   </g>
  </g>
  <g>
   <title>Layer 1</title>
-  <image stroke="null" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAA5hJREFUaIHtWr1rE2EcfnKUGoRGVFCMxaSI5IRKkyGlBG4RI9JsJYt/QBbHOjh0KBk6ONSl4JI/wKVruwQ6GCilHawoeMWhVtqIgkpbKGmGxuH6Xt6v3L331abFBwJ3773v83t+X+9dcgEuOGJOFzOZ8Q453tpad5wbNlRtD8gGHz+6jb12qrMxq9tj+So6dwd3YiuffoYqNKhtwTMZQZfIRJRO+LHNOMAT/G3csq9dN345EoUtXtW2RpPICJrtY+Z8Y1bHXjvVGUslQhM/lkp4sk2vlfYAj2b7GMnBKxSRVZeZDBBvmbGPOwe+hbfieqd1Ko6OOhHvBtuBXDqBIxcnANiObMxa48QRGtrB59iXHyzbwztXcZIYZaJHhANi1J2QSyfw4ZsVNLsHMplxafPIsFZvMecTxThznq+a0nULhTQz142nF/JV095apSU0dO2GI0GxDNQXm4yQYjnJCJWv686h1/PXeuFw/48wpgFWegncxPcyWF9sCqJkkM1TEc9rI5o1ADhJjHYWCmkhpW4olpNS417GVMUTrNVbWCik7X4SSoiOjip5sZxUij6/RhU890QxDqxaxxo9yDeRF1F8NHsJ9Bp1qXgKQgYIudeIRg2ii2/knjcyr7WpYjyKtUp34qiMhwHNfUp/I0bfgVXvAecN0gf5qmmVUHf/txrXLfX69Kp9bL4pBBLjhUu2sQglpCreNJcEATYmZ+QfP1wu2jyVEG/ANJeg6yXrmERPIpTB8pwgnnDYvC6ZEErILxjDbsL5edMlkcMHLvwudOEdcC4hviymg6VbGbzd076RQXRAtZbPErQmzhm7hDaHX/aneB6TM5bWU3jqAbJfq46fBZfnJuYN+BEfJtcAACYlfgwHgV8uS3Plsm+jAfD9xWvm/N7bV5HYiSQDjYb41CgbCwOBHWg0msLzjGEk8XTlPfMxDPZJUtdLoTgVuIQMI4larSY4UavVmHPZdd4pPxgAgOzuvOediAZxgh+j4XbdK7K78wCoDFgD874J3QSFEW0CIh64BE+jMYD9aX3ouf8snAUO31mlTn5ivxwZGH9wE/va/f7OwvIc812YvODQAGD9629mLklTP0H2cgOgXjE9yyWxfTQsvGait9dKpSJ9+NL1krBNOiGbHUE+/0SJi95xADb6jAO0E0D35RtxIJsdwebmtuCEV/E0VLiIA+S9G/+3A+l/EEhP+FIVIXjxU1NT5yXlP2z8AwW218puaeo2AAAAAElFTkSuQmCC" id="svg_1" height="63.513124" width="63.751791" y="0.081935" x="-0.01408"/>
+  <image stroke="null" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAAVNJREFUaIHtWlsSwyAIxE6vkIvl/jfIIeiXU4YqAcUQG/crD7PLhlBfTSAA8cB8nNKWpLbe0GpXb1ACDZEnurURD+QkpWsj0K0tNR5tokU78UYA33SVvkPexgvd2txhKY28rUc2Slwa7Xz+1gqltCX6BvKxpeAkw5xfG5faACVGPLCUak2gGk5TTFSQE9QCORMa/RyNV8xAa6Fe+dyrRehOaCqcOyDHPX0GloFoLAPRWAaiYRoLZXhONXu5zBmQhroRXCYD0mzJKuzFNX0NLAPRWAai8SwDtY6maTLuxGXOABfo6Yk9uJqGEp7Tz16uJgMa8B511Jx7SBH3LnZZ8KxfoRo0n4t21c8KlxqgC7P0Gj0fVRNuRXwW0FRFfCWWgWhMbwAArttC9QKN9z8yAKDLwh1WJcQ4NdunUetCtdh+Ope71wLtEPd9t/3ZIxqzbYOp8AEAhoD5EZuvowAAAABJRU5ErkJggg==" id="svg_1" height="62.838662" width="62.516082" y="0.58067" x="1.001723"/>
  </g>
 </svg>
