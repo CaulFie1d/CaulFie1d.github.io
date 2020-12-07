@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-06T12:56:24.694Z</updated>
+  <updated>2020-12-07T05:37:14.421Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,13 +21,17 @@
     <link href="http://example.com/2020/12/04/VGD-1/"/>
     <id>http://example.com/2020/12/04/VGD-1/</id>
     <published>2020-12-04T14:46:47.012Z</published>
-    <updated>2020-12-06T12:56:24.694Z</updated>
+    <updated>2020-12-07T05:37:14.421Z</updated>
     
     
     <summary type="html">&lt;h3 id=&quot;什么是创意&quot;&gt;&lt;a href=&quot;#什么是创意&quot; class=&quot;headerlink&quot; title=&quot;什么是创意&quot;&gt;&lt;/a&gt;什么是创意&lt;/h3&gt;&lt;p&gt;​        创意在百度里面解释为“create new meanings 创意是创造意识或创新意识的简称，亦作“剙意”。它是指对现实存在事物的理解以及认知，所衍生出的一种新的抽象思维和行为潜能。创意是一种通过创新思维意识，从而进一步挖掘和激活资源组合方式进而提升资源价值的方法，是传统的叛逆，是打破常规的哲学，是破旧立新的创造与毁灭的循环，是思维碰撞，智慧对接，是具有新颖性和创造性的想法，不同于寻常的解决方法。&lt;/p&gt;</summary>
     
     
     
+    <category term="-游戏设计" scheme="http://example.com/categories/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="-个人看法" scheme="http://example.com/tags/%E4%B8%AA%E4%BA%BA%E7%9C%8B%E6%B3%95/"/>
     
   </entry>
   
