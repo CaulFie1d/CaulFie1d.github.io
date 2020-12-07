@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-12-07T05:37:14.421Z</updated>
+  <updated>2020-12-07T16:00:56.926Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>操作反馈教程</title>
+    <link href="http://example.com/2020/12/07/VGD-2/"/>
+    <id>http://example.com/2020/12/07/VGD-2/</id>
+    <published>2020-12-07T08:02:50.561Z</published>
+    <updated>2020-12-07T16:00:56.926Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;我们首先探探什么是肌肉记忆&quot;&gt;&lt;a href=&quot;#我们首先探探什么是肌肉记忆&quot; class=&quot;headerlink&quot; title=&quot;我们首先探探什么是肌肉记忆&quot;&gt;&lt;/a&gt;我们首先探探什么是肌肉记忆&lt;/h3&gt;&lt;p&gt;​        肌肉记忆（Muscle</summary>
+        
+      
+    
+    
+    
+    <category term="-游戏设计" scheme="http://example.com/categories/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="-关卡设计" scheme="http://example.com/tags/%E5%85%B3%E5%8D%A1%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>用化学来谈论游戏创意</title>
